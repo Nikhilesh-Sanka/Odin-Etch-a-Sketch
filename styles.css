@@ -1,0 +1,12 @@
+button{
+    height:3rems;
+    width:150px;
+    margin:40px auto;
+    display:block;
+}
+.container{
+    height:960px;
+    width:960px;
+    border:2px solid grey;
+    margin:0 auto;
+}
